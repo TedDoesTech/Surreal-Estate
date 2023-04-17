@@ -1,0 +1,17 @@
+.navbar {
+    background-color: white;
+    border-bottom: 10px darkgray;
+}
+.logo {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    max-width: 50%;
+    height: auto;
+    max-height: 50%;
+}
+.navbar-links-item {
+    margin: 0px;
+    padding: 5%;
+    display: inline-block;
+}
